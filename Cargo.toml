@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "mini-axum",
+    "mini-actix-web"
+]
+
